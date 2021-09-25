@@ -1,5 +1,5 @@
 const express = require('express')
-const BucketListItem = require("../models/BucketListItem.models")
+const BucketListItem = require("../models/bucketListItem.models.js")
 
 const router = express.Router()
 
